@@ -1,0 +1,2079 @@
+{
+    "attributes": [],
+    "builtins": [],
+    "compiler_version": "0.10.0",
+    "data": [
+        "0x40780017fff7fff",
+        "0x0",
+        "0x482680017ff98000",
+        "0x800000000000010ffffffffffffffffffffffffffffffffffffffffffffffbe",
+        "0x20680017fff7fff",
+        "0x4",
+        "0x480a7ffd7fff8000",
+        "0x208b7fff7fff7ffe",
+        "0x482680017ff98000",
+        "0x800000000000010ffffffffffffffffffffffffffffffffffffffffffffffba",
+        "0x20680017fff7fff",
+        "0x4",
+        "0x480a7ffb7fff8000",
+        "0x208b7fff7fff7ffe",
+        "0x482680017ff98000",
+        "0x800000000000010ffffffffffffffffffffffffffffffffffffffffffffffad",
+        "0x20680017fff7fff",
+        "0x4",
+        "0x480a7ffa7fff8000",
+        "0x208b7fff7fff7ffe",
+        "0x482680017ff98000",
+        "0x800000000000010ffffffffffffffffffffffffffffffffffffffffffffffc0",
+        "0x20680017fff7fff",
+        "0x4",
+        "0x480a7ffc7fff8000",
+        "0x208b7fff7fff7ffe",
+        "0x480680017fff8000",
+        "0x0",
+        "0x208b7fff7fff7ffe",
+        "0x480680017fff8000",
+        "0x0",
+        "0x480680017fff8000",
+        "0x5da",
+        "0x480680017fff8000",
+        "0x3e5",
+        "0x480680017fff8000",
+        "0xac1",
+        "0x480680017fff8000",
+        "0x189d",
+        "0x1104800180018000",
+        "0x800000000000010ffffffffffffffffffffffffffffffffffffffffffffffda",
+        "0x480680017fff8000",
+        "0x43",
+        "0x480680017fff8000",
+        "0x5da",
+        "0x480680017fff8000",
+        "0x3e5",
+        "0x480680017fff8000",
+        "0xac1",
+        "0x480680017fff8000",
+        "0x189d",
+        "0x1104800180018000",
+        "0x800000000000010ffffffffffffffffffffffffffffffffffffffffffffffce",
+        "0x480680017fff8000",
+        "0x47",
+        "0x480680017fff8000",
+        "0x5da",
+        "0x480680017fff8000",
+        "0x3e5",
+        "0x480680017fff8000",
+        "0xac1",
+        "0x480680017fff8000",
+        "0x189d",
+        "0x1104800180018000",
+        "0x800000000000010ffffffffffffffffffffffffffffffffffffffffffffffc2",
+        "0x480680017fff8000",
+        "0x54",
+        "0x480680017fff8000",
+        "0x5da",
+        "0x480680017fff8000",
+        "0x3e5",
+        "0x480680017fff8000",
+        "0xac1",
+        "0x480680017fff8000",
+        "0x189d",
+        "0x1104800180018000",
+        "0x800000000000010ffffffffffffffffffffffffffffffffffffffffffffffb6",
+        "0x480680017fff8000",
+        "0x41",
+        "0x480680017fff8000",
+        "0x5da",
+        "0x480680017fff8000",
+        "0x3e5",
+        "0x480680017fff8000",
+        "0xac1",
+        "0x480680017fff8000",
+        "0x189d",
+        "0x1104800180018000",
+        "0x800000000000010ffffffffffffffffffffffffffffffffffffffffffffffaa",
+        "0x208b7fff7fff7ffe"
+    ],
+    "debug_info": {
+        "file_contents": {},
+        "instruction_locations": {
+            "0": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.test_value"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.test_value.input": 0,
+                        "__main__.test_value.res1": 1,
+                        "__main__.test_value.res2": 2,
+                        "__main__.test_value.res3": 3,
+                        "__main__.test_value.res4": 4
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 18,
+                    "end_line": 2,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 2
+                }
+            },
+            "2": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.test_value"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.test_value.input": 0,
+                        "__main__.test_value.res1": 1,
+                        "__main__.test_value.res2": 2,
+                        "__main__.test_value.res3": 3,
+                        "__main__.test_value.res4": 4,
+                        "__main__.test_value.value": 5
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 20,
+                    "end_line": 6,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 9,
+                    "start_line": 6
+                }
+            },
+            "4": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.test_value"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 1
+                    },
+                    "reference_ids": {
+                        "__main__.test_value.__temp0": 6,
+                        "__main__.test_value.input": 0,
+                        "__main__.test_value.res1": 1,
+                        "__main__.test_value.res2": 2,
+                        "__main__.test_value.res3": 3,
+                        "__main__.test_value.res4": 4,
+                        "__main__.test_value.value": 5
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 7,
+                    "end_line": 6,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 6
+                }
+            },
+            "6": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.test_value"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 1
+                    },
+                    "reference_ids": {
+                        "__main__.test_value.__temp0": 6,
+                        "__main__.test_value.input": 0,
+                        "__main__.test_value.res1": 1,
+                        "__main__.test_value.res2": 2,
+                        "__main__.test_value.res3": 3,
+                        "__main__.test_value.res4": 4,
+                        "__main__.test_value.value": 5
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 76,
+                    "end_line": 1,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "parent_location": [
+                        {
+                            "end_col": 25,
+                            "end_line": 7,
+                            "input_file": {
+                                "filename": "contracts/main.cairo"
+                            },
+                            "start_col": 21,
+                            "start_line": 7
+                        },
+                        "While expanding the reference 'res4' in:"
+                    ],
+                    "start_col": 66,
+                    "start_line": 1
+                }
+            },
+            "7": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.test_value"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 2
+                    },
+                    "reference_ids": {
+                        "__main__.test_value.__temp0": 6,
+                        "__main__.test_value.input": 0,
+                        "__main__.test_value.res1": 1,
+                        "__main__.test_value.res2": 2,
+                        "__main__.test_value.res3": 3,
+                        "__main__.test_value.res4": 4,
+                        "__main__.test_value.value": 5
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 27,
+                    "end_line": 7,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 9,
+                    "start_line": 7
+                }
+            },
+            "8": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.test_value"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 1
+                    },
+                    "reference_ids": {
+                        "__main__.test_value.__temp0": 6,
+                        "__main__.test_value.input": 0,
+                        "__main__.test_value.res1": 1,
+                        "__main__.test_value.res2": 2,
+                        "__main__.test_value.res3": 3,
+                        "__main__.test_value.res4": 4,
+                        "__main__.test_value.value": 5
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 20,
+                    "end_line": 10,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 9,
+                    "start_line": 10
+                }
+            },
+            "10": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.test_value"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 2
+                    },
+                    "reference_ids": {
+                        "__main__.test_value.__temp0": 6,
+                        "__main__.test_value.__temp1": 7,
+                        "__main__.test_value.input": 0,
+                        "__main__.test_value.res1": 1,
+                        "__main__.test_value.res2": 2,
+                        "__main__.test_value.res3": 3,
+                        "__main__.test_value.res4": 4,
+                        "__main__.test_value.value": 5
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 7,
+                    "end_line": 10,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 10
+                }
+            },
+            "12": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.test_value"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 2
+                    },
+                    "reference_ids": {
+                        "__main__.test_value.__temp0": 6,
+                        "__main__.test_value.__temp1": 7,
+                        "__main__.test_value.input": 0,
+                        "__main__.test_value.res1": 1,
+                        "__main__.test_value.res2": 2,
+                        "__main__.test_value.res3": 3,
+                        "__main__.test_value.res4": 4,
+                        "__main__.test_value.value": 5
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 52,
+                    "end_line": 1,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "parent_location": [
+                        {
+                            "end_col": 25,
+                            "end_line": 11,
+                            "input_file": {
+                                "filename": "contracts/main.cairo"
+                            },
+                            "start_col": 21,
+                            "start_line": 11
+                        },
+                        "While expanding the reference 'res2' in:"
+                    ],
+                    "start_col": 42,
+                    "start_line": 1
+                }
+            },
+            "13": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.test_value"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 3
+                    },
+                    "reference_ids": {
+                        "__main__.test_value.__temp0": 6,
+                        "__main__.test_value.__temp1": 7,
+                        "__main__.test_value.input": 0,
+                        "__main__.test_value.res1": 1,
+                        "__main__.test_value.res2": 2,
+                        "__main__.test_value.res3": 3,
+                        "__main__.test_value.res4": 4,
+                        "__main__.test_value.value": 5
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 27,
+                    "end_line": 11,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 9,
+                    "start_line": 11
+                }
+            },
+            "14": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.test_value"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 2
+                    },
+                    "reference_ids": {
+                        "__main__.test_value.__temp0": 6,
+                        "__main__.test_value.__temp1": 7,
+                        "__main__.test_value.input": 0,
+                        "__main__.test_value.res1": 1,
+                        "__main__.test_value.res2": 2,
+                        "__main__.test_value.res3": 3,
+                        "__main__.test_value.res4": 4,
+                        "__main__.test_value.value": 5
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 20,
+                    "end_line": 14,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 9,
+                    "start_line": 14
+                }
+            },
+            "16": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.test_value"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 3
+                    },
+                    "reference_ids": {
+                        "__main__.test_value.__temp0": 6,
+                        "__main__.test_value.__temp1": 7,
+                        "__main__.test_value.__temp2": 8,
+                        "__main__.test_value.input": 0,
+                        "__main__.test_value.res1": 1,
+                        "__main__.test_value.res2": 2,
+                        "__main__.test_value.res3": 3,
+                        "__main__.test_value.res4": 4,
+                        "__main__.test_value.value": 5
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 7,
+                    "end_line": 14,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 14
+                }
+            },
+            "18": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.test_value"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 3
+                    },
+                    "reference_ids": {
+                        "__main__.test_value.__temp0": 6,
+                        "__main__.test_value.__temp1": 7,
+                        "__main__.test_value.__temp2": 8,
+                        "__main__.test_value.input": 0,
+                        "__main__.test_value.res1": 1,
+                        "__main__.test_value.res2": 2,
+                        "__main__.test_value.res3": 3,
+                        "__main__.test_value.res4": 4,
+                        "__main__.test_value.value": 5
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 40,
+                    "end_line": 1,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "parent_location": [
+                        {
+                            "end_col": 25,
+                            "end_line": 15,
+                            "input_file": {
+                                "filename": "contracts/main.cairo"
+                            },
+                            "start_col": 21,
+                            "start_line": 15
+                        },
+                        "While expanding the reference 'res1' in:"
+                    ],
+                    "start_col": 30,
+                    "start_line": 1
+                }
+            },
+            "19": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.test_value"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 4
+                    },
+                    "reference_ids": {
+                        "__main__.test_value.__temp0": 6,
+                        "__main__.test_value.__temp1": 7,
+                        "__main__.test_value.__temp2": 8,
+                        "__main__.test_value.input": 0,
+                        "__main__.test_value.res1": 1,
+                        "__main__.test_value.res2": 2,
+                        "__main__.test_value.res3": 3,
+                        "__main__.test_value.res4": 4,
+                        "__main__.test_value.value": 5
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 27,
+                    "end_line": 15,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 9,
+                    "start_line": 15
+                }
+            },
+            "20": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.test_value"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 3
+                    },
+                    "reference_ids": {
+                        "__main__.test_value.__temp0": 6,
+                        "__main__.test_value.__temp1": 7,
+                        "__main__.test_value.__temp2": 8,
+                        "__main__.test_value.input": 0,
+                        "__main__.test_value.res1": 1,
+                        "__main__.test_value.res2": 2,
+                        "__main__.test_value.res3": 3,
+                        "__main__.test_value.res4": 4,
+                        "__main__.test_value.value": 5
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 20,
+                    "end_line": 18,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 9,
+                    "start_line": 18
+                }
+            },
+            "22": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.test_value"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 4
+                    },
+                    "reference_ids": {
+                        "__main__.test_value.__temp0": 6,
+                        "__main__.test_value.__temp1": 7,
+                        "__main__.test_value.__temp2": 8,
+                        "__main__.test_value.__temp3": 9,
+                        "__main__.test_value.input": 0,
+                        "__main__.test_value.res1": 1,
+                        "__main__.test_value.res2": 2,
+                        "__main__.test_value.res3": 3,
+                        "__main__.test_value.res4": 4,
+                        "__main__.test_value.value": 5
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 7,
+                    "end_line": 18,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 18
+                }
+            },
+            "24": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.test_value"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 4
+                    },
+                    "reference_ids": {
+                        "__main__.test_value.__temp0": 6,
+                        "__main__.test_value.__temp1": 7,
+                        "__main__.test_value.__temp2": 8,
+                        "__main__.test_value.__temp3": 9,
+                        "__main__.test_value.input": 0,
+                        "__main__.test_value.res1": 1,
+                        "__main__.test_value.res2": 2,
+                        "__main__.test_value.res3": 3,
+                        "__main__.test_value.res4": 4,
+                        "__main__.test_value.value": 5
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 64,
+                    "end_line": 1,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "parent_location": [
+                        {
+                            "end_col": 25,
+                            "end_line": 19,
+                            "input_file": {
+                                "filename": "contracts/main.cairo"
+                            },
+                            "start_col": 21,
+                            "start_line": 19
+                        },
+                        "While expanding the reference 'res3' in:"
+                    ],
+                    "start_col": 54,
+                    "start_line": 1
+                }
+            },
+            "25": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.test_value"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 5
+                    },
+                    "reference_ids": {
+                        "__main__.test_value.__temp0": 6,
+                        "__main__.test_value.__temp1": 7,
+                        "__main__.test_value.__temp2": 8,
+                        "__main__.test_value.__temp3": 9,
+                        "__main__.test_value.input": 0,
+                        "__main__.test_value.res1": 1,
+                        "__main__.test_value.res2": 2,
+                        "__main__.test_value.res3": 3,
+                        "__main__.test_value.res4": 4,
+                        "__main__.test_value.value": 5
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 27,
+                    "end_line": 19,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 9,
+                    "start_line": 19
+                }
+            },
+            "26": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.test_value"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 4
+                    },
+                    "reference_ids": {
+                        "__main__.test_value.__temp0": 6,
+                        "__main__.test_value.__temp1": 7,
+                        "__main__.test_value.__temp2": 8,
+                        "__main__.test_value.__temp3": 9,
+                        "__main__.test_value.input": 0,
+                        "__main__.test_value.res1": 1,
+                        "__main__.test_value.res2": 2,
+                        "__main__.test_value.res3": 3,
+                        "__main__.test_value.res4": 4,
+                        "__main__.test_value.value": 5
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 18,
+                    "end_line": 21,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 17,
+                    "start_line": 21
+                }
+            },
+            "28": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.test_value"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 0,
+                        "offset": 5
+                    },
+                    "reference_ids": {
+                        "__main__.test_value.__temp0": 6,
+                        "__main__.test_value.__temp1": 7,
+                        "__main__.test_value.__temp2": 8,
+                        "__main__.test_value.__temp3": 9,
+                        "__main__.test_value.input": 0,
+                        "__main__.test_value.res1": 1,
+                        "__main__.test_value.res2": 2,
+                        "__main__.test_value.res3": 3,
+                        "__main__.test_value.res4": 4,
+                        "__main__.test_value.value": 5
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 20,
+                    "end_line": 21,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 21
+                }
+            },
+            "29": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 0
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 17,
+                    "end_line": 25,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 16,
+                    "start_line": 25
+                }
+            },
+            "31": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 1
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 23,
+                    "end_line": 25,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 19,
+                    "start_line": 25
+                }
+            },
+            "33": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 2
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 28,
+                    "end_line": 25,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 25,
+                    "start_line": 25
+                }
+            },
+            "35": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 3
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 34,
+                    "end_line": 25,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 30,
+                    "start_line": 25
+                }
+            },
+            "37": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 4
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 40,
+                    "end_line": 25,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 36,
+                    "start_line": 25
+                }
+            },
+            "39": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 1,
+                        "offset": 5
+                    },
+                    "reference_ids": {}
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 41,
+                    "end_line": 25,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 25
+                }
+            },
+            "41": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 2,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 10
+                    }
+                },
+                "hints": [
+                    {
+                        "location": {
+                            "end_col": 35,
+                            "end_line": 27,
+                            "input_file": {
+                                "filename": "contracts/main.cairo"
+                            },
+                            "start_col": 5,
+                            "start_line": 27
+                        },
+                        "n_prefix_newlines": 0
+                    }
+                ],
+                "inst": {
+                    "end_col": 18,
+                    "end_line": 28,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 16,
+                    "start_line": 28
+                }
+            },
+            "43": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 2,
+                        "offset": 1
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 10
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 24,
+                    "end_line": 28,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 20,
+                    "start_line": 28
+                }
+            },
+            "45": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 2,
+                        "offset": 2
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 10
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 29,
+                    "end_line": 28,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 26,
+                    "start_line": 28
+                }
+            },
+            "47": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 2,
+                        "offset": 3
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 10
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 35,
+                    "end_line": 28,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 31,
+                    "start_line": 28
+                }
+            },
+            "49": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 2,
+                        "offset": 4
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 10
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 41,
+                    "end_line": 28,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 37,
+                    "start_line": 28
+                }
+            },
+            "51": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 2,
+                        "offset": 5
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 10
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 42,
+                    "end_line": 28,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 28
+                }
+            },
+            "53": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 11
+                    }
+                },
+                "hints": [
+                    {
+                        "location": {
+                            "end_col": 35,
+                            "end_line": 30,
+                            "input_file": {
+                                "filename": "contracts/main.cairo"
+                            },
+                            "start_col": 5,
+                            "start_line": 30
+                        },
+                        "n_prefix_newlines": 0
+                    }
+                ],
+                "inst": {
+                    "end_col": 18,
+                    "end_line": 31,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 16,
+                    "start_line": 31
+                }
+            },
+            "55": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 1
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 11
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 24,
+                    "end_line": 31,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 20,
+                    "start_line": 31
+                }
+            },
+            "57": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 2
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 11
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 29,
+                    "end_line": 31,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 26,
+                    "start_line": 31
+                }
+            },
+            "59": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 3
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 11
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 35,
+                    "end_line": 31,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 31,
+                    "start_line": 31
+                }
+            },
+            "61": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 4
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 11
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 41,
+                    "end_line": 31,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 37,
+                    "start_line": 31
+                }
+            },
+            "63": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 5
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 11
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 42,
+                    "end_line": 31,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 31
+                }
+            },
+            "65": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 4,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 12
+                    }
+                },
+                "hints": [
+                    {
+                        "location": {
+                            "end_col": 35,
+                            "end_line": 33,
+                            "input_file": {
+                                "filename": "contracts/main.cairo"
+                            },
+                            "start_col": 5,
+                            "start_line": 33
+                        },
+                        "n_prefix_newlines": 0
+                    }
+                ],
+                "inst": {
+                    "end_col": 18,
+                    "end_line": 34,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 16,
+                    "start_line": 34
+                }
+            },
+            "67": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 4,
+                        "offset": 1
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 12
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 24,
+                    "end_line": 34,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 20,
+                    "start_line": 34
+                }
+            },
+            "69": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 4,
+                        "offset": 2
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 12
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 29,
+                    "end_line": 34,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 26,
+                    "start_line": 34
+                }
+            },
+            "71": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 4,
+                        "offset": 3
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 12
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 35,
+                    "end_line": 34,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 31,
+                    "start_line": 34
+                }
+            },
+            "73": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 4,
+                        "offset": 4
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 12
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 41,
+                    "end_line": 34,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 37,
+                    "start_line": 34
+                }
+            },
+            "75": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 4,
+                        "offset": 5
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 12
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 42,
+                    "end_line": 34,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 34
+                }
+            },
+            "77": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 5,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 13
+                    }
+                },
+                "hints": [
+                    {
+                        "location": {
+                            "end_col": 35,
+                            "end_line": 36,
+                            "input_file": {
+                                "filename": "contracts/main.cairo"
+                            },
+                            "start_col": 5,
+                            "start_line": 36
+                        },
+                        "n_prefix_newlines": 0
+                    }
+                ],
+                "inst": {
+                    "end_col": 18,
+                    "end_line": 37,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 16,
+                    "start_line": 37
+                }
+            },
+            "79": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 5,
+                        "offset": 1
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 13
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 24,
+                    "end_line": 37,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 20,
+                    "start_line": 37
+                }
+            },
+            "81": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 5,
+                        "offset": 2
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 13
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 29,
+                    "end_line": 37,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 26,
+                    "start_line": 37
+                }
+            },
+            "83": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 5,
+                        "offset": 3
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 13
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 35,
+                    "end_line": 37,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 31,
+                    "start_line": 37
+                }
+            },
+            "85": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 5,
+                        "offset": 4
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 13
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 41,
+                    "end_line": 37,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 37,
+                    "start_line": 37
+                }
+            },
+            "87": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 5,
+                        "offset": 5
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 13
+                    }
+                },
+                "hints": [],
+                "inst": {
+                    "end_col": 42,
+                    "end_line": 37,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 37
+                }
+            },
+            "89": {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 6,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 14
+                    }
+                },
+                "hints": [
+                    {
+                        "location": {
+                            "end_col": 35,
+                            "end_line": 39,
+                            "input_file": {
+                                "filename": "contracts/main.cairo"
+                            },
+                            "start_col": 5,
+                            "start_line": 39
+                        },
+                        "n_prefix_newlines": 0
+                    }
+                ],
+                "inst": {
+                    "end_col": 15,
+                    "end_line": 40,
+                    "input_file": {
+                        "filename": "contracts/main.cairo"
+                    },
+                    "start_col": 5,
+                    "start_line": 40
+                }
+            }
+        }
+    },
+    "hints": {
+        "41": [
+            {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "code": "print(f\"{ids.result1=}\")",
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 2,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 10
+                    }
+                }
+            }
+        ],
+        "53": [
+            {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "code": "print(f\"{ids.result1=}\")",
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 3,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 11
+                    }
+                }
+            }
+        ],
+        "65": [
+            {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "code": "print(f\"{ids.result1=}\")",
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 4,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 12
+                    }
+                }
+            }
+        ],
+        "77": [
+            {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "code": "print(f\"{ids.result1=}\")",
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 5,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 13
+                    }
+                }
+            }
+        ],
+        "89": [
+            {
+                "accessible_scopes": [
+                    "__main__",
+                    "__main__.main"
+                ],
+                "code": "print(f\"{ids.result1=}\")",
+                "flow_tracking_data": {
+                    "ap_tracking": {
+                        "group": 6,
+                        "offset": 0
+                    },
+                    "reference_ids": {
+                        "__main__.main.result1": 14
+                    }
+                }
+            }
+        ]
+    },
+    "identifiers": {
+        "__main__.main": {
+            "decorators": [],
+            "pc": 29,
+            "type": "function"
+        },
+        "__main__.main.Args": {
+            "full_name": "__main__.main.Args",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.main.ImplicitArgs": {
+            "full_name": "__main__.main.ImplicitArgs",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.main.Return": {
+            "cairo_type": "()",
+            "type": "type_definition"
+        },
+        "__main__.main.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 0
+        },
+        "__main__.main.result1": {
+            "cairo_type": "felt",
+            "full_name": "__main__.main.result1",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 2,
+                        "offset": 0
+                    },
+                    "pc": 41,
+                    "value": "[cast(ap + (-1), felt*)]"
+                },
+                {
+                    "ap_tracking_data": {
+                        "group": 3,
+                        "offset": 0
+                    },
+                    "pc": 53,
+                    "value": "[cast(ap + (-1), felt*)]"
+                },
+                {
+                    "ap_tracking_data": {
+                        "group": 4,
+                        "offset": 0
+                    },
+                    "pc": 65,
+                    "value": "[cast(ap + (-1), felt*)]"
+                },
+                {
+                    "ap_tracking_data": {
+                        "group": 5,
+                        "offset": 0
+                    },
+                    "pc": 77,
+                    "value": "[cast(ap + (-1), felt*)]"
+                },
+                {
+                    "ap_tracking_data": {
+                        "group": 6,
+                        "offset": 0
+                    },
+                    "pc": 89,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.test_value": {
+            "decorators": [],
+            "pc": 0,
+            "type": "function"
+        },
+        "__main__.test_value.Args": {
+            "full_name": "__main__.test_value.Args",
+            "members": {
+                "input": {
+                    "cairo_type": "felt",
+                    "offset": 0
+                },
+                "res1": {
+                    "cairo_type": "felt",
+                    "offset": 1
+                },
+                "res2": {
+                    "cairo_type": "felt",
+                    "offset": 2
+                },
+                "res3": {
+                    "cairo_type": "felt",
+                    "offset": 3
+                },
+                "res4": {
+                    "cairo_type": "felt",
+                    "offset": 4
+                }
+            },
+            "size": 5,
+            "type": "struct"
+        },
+        "__main__.test_value.ImplicitArgs": {
+            "full_name": "__main__.test_value.ImplicitArgs",
+            "members": {},
+            "size": 0,
+            "type": "struct"
+        },
+        "__main__.test_value.Return": {
+            "cairo_type": "(res: felt)",
+            "type": "type_definition"
+        },
+        "__main__.test_value.SIZEOF_LOCALS": {
+            "type": "const",
+            "value": 0
+        },
+        "__main__.test_value.__temp0": {
+            "cairo_type": "felt",
+            "full_name": "__main__.test_value.__temp0",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 0,
+                        "offset": 1
+                    },
+                    "pc": 4,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.test_value.__temp1": {
+            "cairo_type": "felt",
+            "full_name": "__main__.test_value.__temp1",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 0,
+                        "offset": 2
+                    },
+                    "pc": 10,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.test_value.__temp2": {
+            "cairo_type": "felt",
+            "full_name": "__main__.test_value.__temp2",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 0,
+                        "offset": 3
+                    },
+                    "pc": 16,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.test_value.__temp3": {
+            "cairo_type": "felt",
+            "full_name": "__main__.test_value.__temp3",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 0,
+                        "offset": 4
+                    },
+                    "pc": 22,
+                    "value": "[cast(ap + (-1), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.test_value.input": {
+            "cairo_type": "felt",
+            "full_name": "__main__.test_value.input",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 0,
+                        "offset": 0
+                    },
+                    "pc": 0,
+                    "value": "[cast(fp + (-7), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.test_value.res1": {
+            "cairo_type": "felt",
+            "full_name": "__main__.test_value.res1",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 0,
+                        "offset": 0
+                    },
+                    "pc": 0,
+                    "value": "[cast(fp + (-6), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.test_value.res2": {
+            "cairo_type": "felt",
+            "full_name": "__main__.test_value.res2",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 0,
+                        "offset": 0
+                    },
+                    "pc": 0,
+                    "value": "[cast(fp + (-5), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.test_value.res3": {
+            "cairo_type": "felt",
+            "full_name": "__main__.test_value.res3",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 0,
+                        "offset": 0
+                    },
+                    "pc": 0,
+                    "value": "[cast(fp + (-4), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.test_value.res4": {
+            "cairo_type": "felt",
+            "full_name": "__main__.test_value.res4",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 0,
+                        "offset": 0
+                    },
+                    "pc": 0,
+                    "value": "[cast(fp + (-3), felt*)]"
+                }
+            ],
+            "type": "reference"
+        },
+        "__main__.test_value.value": {
+            "cairo_type": "felt",
+            "full_name": "__main__.test_value.value",
+            "references": [
+                {
+                    "ap_tracking_data": {
+                        "group": 0,
+                        "offset": 0
+                    },
+                    "pc": 2,
+                    "value": "[cast(fp + (-7), felt*)]"
+                }
+            ],
+            "type": "reference"
+        }
+    },
+    "main_scope": "__main__",
+    "prime": "0x800000000000011000000000000000000000000000000000000000000000001",
+    "reference_manager": {
+        "references": [
+            {
+                "ap_tracking_data": {
+                    "group": 0,
+                    "offset": 0
+                },
+                "pc": 0,
+                "value": "[cast(fp + (-7), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 0,
+                    "offset": 0
+                },
+                "pc": 0,
+                "value": "[cast(fp + (-6), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 0,
+                    "offset": 0
+                },
+                "pc": 0,
+                "value": "[cast(fp + (-5), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 0,
+                    "offset": 0
+                },
+                "pc": 0,
+                "value": "[cast(fp + (-4), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 0,
+                    "offset": 0
+                },
+                "pc": 0,
+                "value": "[cast(fp + (-3), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 0,
+                    "offset": 0
+                },
+                "pc": 2,
+                "value": "[cast(fp + (-7), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 0,
+                    "offset": 1
+                },
+                "pc": 4,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 0,
+                    "offset": 2
+                },
+                "pc": 10,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 0,
+                    "offset": 3
+                },
+                "pc": 16,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 0,
+                    "offset": 4
+                },
+                "pc": 22,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 2,
+                    "offset": 0
+                },
+                "pc": 41,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 3,
+                    "offset": 0
+                },
+                "pc": 53,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 4,
+                    "offset": 0
+                },
+                "pc": 65,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 5,
+                    "offset": 0
+                },
+                "pc": 77,
+                "value": "[cast(ap + (-1), felt*)]"
+            },
+            {
+                "ap_tracking_data": {
+                    "group": 6,
+                    "offset": 0
+                },
+                "pc": 89,
+                "value": "[cast(ap + (-1), felt*)]"
+            }
+        ]
+    }
+}

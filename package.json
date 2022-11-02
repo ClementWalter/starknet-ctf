@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "starknet": "github:0xs34n/starknet.js#develop"
+  }
+}
